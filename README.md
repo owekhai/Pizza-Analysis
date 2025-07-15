@@ -19,8 +19,8 @@ A Piza Company  is on a quest to extract pivotal insights from their customer da
 ### Content
  The dataset comprises 48,620 rows, observations across 12 variables, each illuminating different facets of the company's operations and customer interactions:
 
-- ** Pizza_id **: Customer identification number.
-- ** Order_id**: This column display the Order identification number.
+- **Pizza_id**: Customer identification number.
+- **Order_id**: This column display the Order identification number.
 - **Pizza_name_id**: The Costumers Names id
 - **Order_date:** Periodical Time Track Record
 - **Quantity**: Piza Quantity.
@@ -33,7 +33,7 @@ A Piza Company  is on a quest to extract pivotal insights from their customer da
 
 ### Data Sources 
 
-•	The data source for the analysis is an Excel file named "Pizza Dataset 1.xlsx"
+•	The data source for the analysis is an Excel file from kaggle named "Pizza Dataset 1.xlsx"
 
 ### Tools:
  * Excel
