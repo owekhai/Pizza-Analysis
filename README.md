@@ -58,8 +58,8 @@ A Piza Company  is on a quest to extract pivotal insights from their customer da
 * 8. 3-D Clustered column: Shows the “Price range for each pizza”.
 * 9. Clustered bar: Analyzes the “Pizza with highest revenue”.
 * 10. Clustered column: Show the “Average order value insight”.
-* 11.Area: Analyzes the “Pizza category revenue”.
-* 12.3-D Clustered column: Shows “The price varies across sales of pizza”.
+* 11 .Area: Analyzes the “Pizza category revenue”.
+* 12 .3-D Clustered column: Shows “The price varies across sales of pizza”.
 * 13. Pie of pie: Preference for “Vegetarian and non Vegetarian”.
 * 14. Bar of pie: “Time and period of sales”.
 
