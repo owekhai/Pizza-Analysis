@@ -37,8 +37,9 @@ A Piza Company  is on a quest to extract pivotal insights from their customer da
 
 ### Tools:
  * Excel
+ * Power Query for formatting manipulation.
  * Pivot Tabl for proper analysis.
- * Excel Dashboard for interactive visualizations
+ * Excel Dashboard for interactive visualizations.
 
 ### Data Cleaning
 * 1. Null/empty value check to ensure no missing data.
