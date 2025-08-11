@@ -78,7 +78,7 @@ A Piza Company  is on a quest to extract pivotal insights from their customer da
 ### Recommendations
 1. **Focus on "XL and XXL" improvements**: There should be a proper investigation on the reason for low sales in “XL” and “XXL” pizza, perhaps a rebrand should be consider, an ad should also be consider, a price discount as well in order to draw customers attention for more patronage.
 
-2. ** Time Discount **: Pizza sales between 9am to 10am and also 10pm to 11pm should consider having a lower price tag in other to attract more sales.
+2. **Time Discount**: Pizza sales between 9am to 10am and also 10pm to 11pm should consider having a lower price tag in other to attract more sales.
 3. **Discount Optimization and Customers Rating**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
 
 ### Limitations
