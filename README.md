@@ -111,12 +111,12 @@ A Piza Company is on a quest to extract pivotal insights from their customer dat
 
 ### Findings
 
-Size	Customer Count	Total Revenue
-Large (L)	18,526	$375,318
-Medium (M)	15,385	$249,382
-Small (S)	14,137	$178,076
-Extra Large (XL)	544	$14,076
-XXL	28	$1,006
+* Size	Customer Count	Total Revenue
+* Large (L)	18,526	$375,318
+* Medium (M)	15,385	$249,382
+* Small (S)	14,137	$178,076
+* Extra Large (XL)	544	$14,076
+* XXL	28	$1,006
 
 * The total revenue is $817,860
 
